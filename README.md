@@ -101,7 +101,7 @@
 
 ## 🔗 **Contact & Verification**
 - **LinkedIn:** anixlynch
-- **Email:** anix@chicagobooth.edu
+- **Email:** alynch@alumni.chicagobooth.edu
 - **All certificates:** Independently verified with downloadable PDFs
 
 ## 🏅 Verified Badges (Credly)
