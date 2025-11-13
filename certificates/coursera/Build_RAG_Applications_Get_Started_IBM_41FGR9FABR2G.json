@@ -1,0 +1,27 @@
+{
+  "certificate_code": "41FGR9FABR2G",
+  "certificate_type": "Course Certificate",
+  "course_name": "Build RAG Applications: Get Started",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 10, 2025",
+  "duration": "6 hours (approximately)",
+  "rating": "4.5 (89 ratings)",
+  "total_enrolled": "9,854 already enrolled",
+  
+  "what_you_learned": [
+    "Develop a practical understanding of Retrieval-Augmented Generation (RAG)",
+    "Design user-friendly, interactive interfaces for RAG applications using Gradio",
+    "Learn about LlamaIndex, its uses in building RAG applications, and how it contrasts with LangChain",
+    "Build RAG applications using LangChain and LlamaIndex in Python"
+  ],
+  
+  "skills_gained": [
+    "Prompt Engineering",
+    "Jupyter",
+    "LLM Application"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/41FGR9FABR2G"
+}
+

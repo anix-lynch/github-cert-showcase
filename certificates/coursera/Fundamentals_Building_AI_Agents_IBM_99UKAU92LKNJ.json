@@ -1,0 +1,32 @@
+{
+  "certificate_code": "99UKAU92LKNJ",
+  "certificate_type": "Course Certificate",
+  "course_name": "Fundamentals of Building AI Agents",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 10, 2025",
+  "duration": "11 hours (approximately)",
+  "rating": "4.7 (60 ratings)",
+  "total_enrolled": "12,556 already enrolled",
+  
+  "what_you_learned": [
+    "Develop AI agents that can reason and perform tasks independently",
+    "Implement tool calling and chaining to create structured AI workflows",
+    "Utilize built-in LangChain agents to analyze data, generate visualizations, and execute database queries",
+    "Apply best practices in prompt engineering and tool calling to enhance AI agent performance"
+  ],
+  
+  "skills_gained": [
+    "Artificial Intelligence and Machine Learning (AI/ML)",
+    "Software Development",
+    "Tool Calling",
+    "Generative AI Agents",
+    "LangChain",
+    "Agentic systems",
+    "LLM Application",
+    "Application Development"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/99UKAU92LKNJ"
+}
+

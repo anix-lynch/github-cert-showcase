@@ -1,0 +1,35 @@
+{
+  "certificate_code": "L5FRX9AAZL9N",
+  "certificate_type": "Course Certificate",
+  "course_name": "Introduction to Data Management",
+  "provider": "Meta",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 13, 2025",
+  "duration": "15 hours (approximately)",
+  "rating": "4.8 (110 ratings)",
+  "total_enrolled": "11,122 already enrolled",
+  
+  "what_you_learned": [
+    "How to apply the fundamentals of data collection and data quality management",
+    "Different type data storage solutions and architectures, including big data management and how they are used",
+    "The fundamentals of data privacy and compliance, as well as the basics of machine learning"
+  ],
+  
+  "skills_gained": [
+    "Data Quality",
+    "Data Storage",
+    "Data Management",
+    "Data Analysis",
+    "Data Security",
+    "Data Governance",
+    "Data-Driven Decision-Making",
+    "Data Architecture",
+    "Big Data",
+    "Machine Learning",
+    "Data Collection",
+    "Information Privacy"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/L5FRX9AAZL9N"
+}
+

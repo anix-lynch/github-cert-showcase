@@ -1,0 +1,35 @@
+{
+  "certificate_code": "VUZ45GBH8B7L",
+  "certificate_type": "Course Certificate",
+  "course_name": "Vector Databases for RAG: An Introduction",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 10, 2025",
+  "duration": "9 hours (approximately)",
+  "rating": "4.6 (45 ratings)",
+  "total_enrolled": "6,203 already enrolled",
+  
+  "what_you_learned": [
+    "Differentiate between vector databases and traditional databases based on their functionality and use cases",
+    "Execute fundamental database operations in ChromaDB, including updating, deleting, and managing collections",
+    "Understand and apply similarity search techniques, both manually and with ChromaDB, and develop recommendation systems using these techniques",
+    "Develop a thorough and comprehensive understanding of key internal mechanisms within RAG"
+  ],
+  
+  "skills_gained": [
+    "Database Architecture and Administration",
+    "Databases",
+    "Data Storage",
+    "Information Management",
+    "Generative AI",
+    "LLM Application",
+    "Query Languages",
+    "Applied Machine Learning",
+    "Data Storage Technologies",
+    "Artificial Intelligence",
+    "NoSQL"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/VUZ45GBH8B7L"
+}
+

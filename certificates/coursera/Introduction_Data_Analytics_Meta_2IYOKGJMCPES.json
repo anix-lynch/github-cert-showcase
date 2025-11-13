@@ -1,0 +1,35 @@
+{
+  "certificate_code": "2IYOKGJMCPES",
+  "certificate_type": "Course Certificate",
+  "course_name": "Introduction to Data Analytics",
+  "provider": "Meta",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 12, 2025",
+  "duration": "17 hours (approximately)",
+  "rating": "4.8 (995 ratings)",
+  "total_enrolled": "102,325 already enrolled",
+  
+  "what_you_learned": [
+    "Apply the data analysis process OSEMN to marketing data",
+    "Compare and contrast various data formats and their applications across different scenarios",
+    "Identify data gaps and articulate the strengths and weaknesses of collected data"
+  ],
+  
+  "skills_gained": [
+    "Data Visualization",
+    "Data Storytelling",
+    "Marketing",
+    "Data Quality",
+    "Generative AI",
+    "Data Management",
+    "Data Cleansing",
+    "Business Metrics",
+    "Data Collection",
+    "Analytical Skills",
+    "Exploratory Data Analysis",
+    "Key Performance Indicators (KPIs)"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/2IYOKGJMCPES"
+}
+

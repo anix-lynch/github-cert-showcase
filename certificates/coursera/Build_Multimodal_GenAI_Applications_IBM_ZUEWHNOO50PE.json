@@ -1,0 +1,33 @@
+{
+  "certificate_code": "ZUEWHNOO50PE",
+  "certificate_type": "Course Certificate",
+  "course_name": "Build Multimodal Generative AI Applications",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 10, 2025",
+  "duration": "7 hours (approximately)",
+  "rating": "4.7 (32 ratings)",
+  "total_enrolled": "4,591 already enrolled",
+  
+  "what_you_learned": [
+    "Build the job-ready skills you need to build multimodal generative AI applications in just 3 weeks",
+    "Understand the fundamental concepts and challenges in multimodal AI, including the integration of text, speech, images, and video",
+    "Build multimodal AI applications using state-of-the-art models and frameworks such as IBM's Granite, Meta's Llama, OpenAI's Whisper, DALL·E and Sora",
+    "Develop multimodal AI solutions, including chatbots and image/video generation models, using IBM watsonx.ai, Hugging Face, Flask and Gradio"
+  ],
+  
+  "skills_gained": [
+    "Prompt Engineering",
+    "OpenAI",
+    "Software Development",
+    "Flask (Web Framework)",
+    "LLM Application",
+    "Web development",
+    "Web Applications",
+    "Application Deployment",
+    "Multimodal Prompts"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/ZUEWHNOO50PE"
+}
+

@@ -1,0 +1,35 @@
+{
+  "certificate_code": "C3V7ZDS2J845",
+  "certificate_type": "Course Certificate",
+  "course_name": "Data Analysis with Spreadsheets and SQL",
+  "provider": "Meta",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 13, 2025",
+  "duration": "26 hours (approximately)",
+  "rating": "4.6 (271 ratings)",
+  "total_enrolled": "29,264 already enrolled",
+  
+  "what_you_learned": [
+    "Clean data with spreadsheets and use common spreadsheet formulas to calculate summary statistics",
+    "Write foundational SQL statements and queries to extract data in spreadsheets",
+    "Create charts in Google Sheets and use Tableau to visualize data and use dashboards to create data visualizations"
+  ],
+  
+  "skills_gained": [
+    "Spreadsheet Software",
+    "Data Analysis",
+    "Descriptive Statistics",
+    "Data Manipulation",
+    "Pivot Tables And Charts",
+    "Data Storytelling",
+    "Google Sheets",
+    "Tableau Software",
+    "SQL",
+    "Data Cleansing",
+    "Correlation Analysis",
+    "Exploratory Data Analysis"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/C3V7ZDS2J845"
+}
+

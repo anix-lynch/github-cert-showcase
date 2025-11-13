@@ -1,0 +1,36 @@
+{
+  "certificate_code": "2Y5NRH4XNH28",
+  "certificate_type": "Course Certificate",
+  "course_name": "Excel Basics for Data Analysis",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "August 25, 2023",
+  "duration": "12 hours (approximately)",
+  "rating": "4.7 (10,392 ratings)",
+  "total_enrolled": "552,360 already enrolled",
+  
+  "what_you_learned": [
+    "Display working knowledge of Excel for Data Analysis",
+    "Perform basic spreadsheet tasks including navigation, data entry, and using formulas",
+    "Employ data quality techniques to import and clean data in Excel",
+    "Analyze data in spreadsheets by using filter, sort, look-up functions, as well as pivot tables"
+  ],
+  
+  "skills_gained": [
+    "Spreadsheet Software",
+    "Data Analysis",
+    "Data Manipulation",
+    "Pivot Tables And Charts",
+    "Data Integrity",
+    "Google Sheets",
+    "Data Import/Export",
+    "Microsoft Excel",
+    "Information Privacy",
+    "Data Cleansing",
+    "Data Quality",
+    "Data Science"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/2Y5NRH4XNH28"
+}
+

@@ -1,0 +1,36 @@
+{
+  "certificate_code": "SMHSUP57JXRV",
+  "certificate_type": "Course Certificate",
+  "course_name": "Introduction to Data Analytics",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "February 26, 2023",
+  "duration": "10 hours (approximately)",
+  "rating": "4.8 (19,796 ratings)",
+  "total_enrolled": "853,343 already enrolled",
+  
+  "what_you_learned": [
+    "Explain what Data Analytics is and the key steps in the Data Analytics process",
+    "Differentiate between different data roles such as Data Engineer, Data Analyst, Data Scientist, Business Analyst, and Business Intelligence Analyst",
+    "Describe the different types of data structures, file formats, and sources of data",
+    "Describe the data analysis process involving collecting, wrangling, mining, and visualizing data"
+  ],
+  
+  "skills_gained": [
+    "Apache Hive",
+    "Apache Hadoop",
+    "Data Analysis",
+    "Data Warehousing",
+    "Relational Databases",
+    "Data Collection",
+    "Microsoft Excel",
+    "Data Cleansing",
+    "Data Lakes",
+    "Data Science",
+    "Apache Spark",
+    "Data Visualization"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/SMHSUP57JXRV"
+}
+

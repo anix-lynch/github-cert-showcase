@@ -1,0 +1,35 @@
+{
+  "certificate_code": "J4G724E0RKC0",
+  "certificate_type": "Course Certificate",
+  "course_name": "Python Data Analytics",
+  "provider": "Meta",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 13, 2025",
+  "duration": "22 hours (approximately)",
+  "rating": "4.3 (234 ratings)",
+  "total_enrolled": "26,860 already enrolled",
+  
+  "what_you_learned": [
+    "Sort, query, and structure data in Pandas, the Python library",
+    "Describe how to model and interpret data using Python",
+    "Create basic data visualizations with Python libraries"
+  ],
+  
+  "skills_gained": [
+    "Data Cleansing",
+    "Pandas (Python Package)",
+    "Scripting",
+    "Data Visualization Software",
+    "Programming Principles",
+    "Data Manipulation",
+    "Python Programming",
+    "Scripting Languages",
+    "Data Analysis",
+    "Exploratory Data Analysis",
+    "Matplotlib",
+    "Jupyter"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/J4G724E0RKC0"
+}
+

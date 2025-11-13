@@ -1,0 +1,85 @@
+{
+  "certificate_code": "J2IM7FBE1LDE",
+  "certificate_type": "Professional Certificate",
+  "course_name": "Meta Data Analyst",
+  "provider": "Meta",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 10, 2025",
+  "duration": "Approximately 5 months at 10 hours a week to complete",
+  "rating": "4.7 (873 ratings)",
+  "total_enrolled": "48,938 already enrolled",
+  
+  "what_you_learned": [
+    "Collect, clean, sort, evaluate, and visualize data",
+    "Apply the OSEMN framework to guide the data analysis process, ensuring a comprehensive and structured approach to deriving actionable insights",
+    "Use statistical analysis, including hypothesis testing, regression analysis, and more, to make data-driven decisions",
+    "Develop an understanding of the foundational principles of effective data management and usability of data assets within organizational context"
+  ],
+  
+  "skills_gained": [
+    "Spreadsheet Software",
+    "Data Management",
+    "Data Analysis",
+    "Business Metrics",
+    "Descriptive Statistics",
+    "Key Performance Indicators (KPIs)",
+    "Data Storytelling",
+    "Statistical Hypothesis Testing",
+    "Data Collection",
+    "Information Privacy",
+    "SQL",
+    "Data Cleansing",
+    "Data Governance",
+    "Bayesian Statistics",
+    "Python Programming",
+    "Pandas (Python Package)",
+    "Exploratory Data Analysis"
+  ],
+  
+  "course_certificates": [
+    {
+      "course_name": "Introduction to Data Analytics",
+      "provider": "Meta",
+      "instructor": "Anke Audenaert",
+      "duration": "4 weeks of study, 5-6 hours/week",
+      "certificate_code": "2IYOKGJMCPES",
+      "completion_date": "July 12, 2025"
+    },
+    {
+      "course_name": "Data Analysis with Spreadsheets and SQL",
+      "provider": "Meta",
+      "instructor": "Brandon Larkin",
+      "duration": "5 weeks of study, 5-6 hours/week",
+      "certificate_code": "C3V7ZDS2J845",
+      "completion_date": "July 12, 2025"
+    },
+    {
+      "course_name": "Python Data Analytics",
+      "provider": "Meta",
+      "instructor": "Victor Geislinger",
+      "duration": "5 weeks of study, 5-6 hours/week",
+      "certificate_code": "J4G724E0RKC0",
+      "completion_date": "July 13, 2025"
+    },
+    {
+      "course_name": "Statistics Foundations",
+      "provider": "Meta",
+      "instructor": "Brandi Robinson",
+      "duration": "4 weeks of study, 5-6 hours/week",
+      "certificate_code": "18W5WTKQZL5L",
+      "completion_date": "July 13, 2025"
+    },
+    {
+      "course_name": "Introduction to Data Management",
+      "provider": "Meta",
+      "instructor": "Brandon Larkin",
+      "duration": "4 weeks of study, 5-6 hours/week",
+      "certificate_code": "L5FRX9AAZL9N",
+      "completion_date": "July 13, 2025"
+    }
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/professional-cert/J2IM7FBE1LDE",
+  "certificate_image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~J2IM7FBE1LDE/CERTIFICATE_LANDING_PAGE~J2IM7FBE1LDE.jpeg"
+}
+

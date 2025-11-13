@@ -1,0 +1,36 @@
+{
+  "certificate_code": "9BZ13BA5RR8P",
+  "certificate_type": "Course Certificate",
+  "course_name": "Python for Data Science, AI & Development",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "July 10, 2025",
+  "duration": "25 hours (approximately)",
+  "rating": "4.6 (42,753 ratings)",
+  "total_enrolled": "1,364,880 already enrolled",
+  
+  "what_you_learned": [
+    "Develop a foundational understanding of Python programming by learning basic syntax, data types, expressions, variables, and string operations",
+    "Apply Python programming logic using data structures, conditions and branching, loops, functions, exception handling, objects, and classes",
+    "Demonstrate proficiency in using Python libraries such as Pandas and Numpy and developing code using Jupyter Notebooks",
+    "Access and extract web-based data by working with REST APIs using requests and performing web scraping with BeautifulSoup"
+  ],
+  
+  "skills_gained": [
+    "Web Scraping",
+    "Data Analysis",
+    "Computer Programming",
+    "Data Manipulation",
+    "Data Processing",
+    "Programming Principles",
+    "Numpy",
+    "Data Import/Export",
+    "Scripting",
+    "Automation",
+    "Jupyter",
+    "Pandas (Python Package)"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/9BZ13BA5RR8P"
+}
+
