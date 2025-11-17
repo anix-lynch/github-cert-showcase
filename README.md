@@ -43,6 +43,7 @@ A curated portfolio of certifications, diplomas, and professional credentials.
 
 ## File Organization
 
+```
 certifications/
 ├── Diploma/ - Academic diplomas
 │   ├── MBA Certificate
@@ -60,6 +61,7 @@ certifications/
 │   └── other/
 │       └── ScrumAlliance_CSM_Certificate.pdf
 └── README.md
+```
 
 ---
 
